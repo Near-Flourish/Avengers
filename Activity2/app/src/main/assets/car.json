@@ -1,0 +1,2614 @@
+{
+  "ddu": [
+    {
+      "gid": "1",
+      "Name": "거제 내촐해변",
+      "description": "경남 거제시 동부면 학동리 628-2",
+      "latitude": "34.76657459",
+      "longitude": "128.6376801",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "2",
+      "Name": "삼탄유원지 다리밑",
+      "description": "충북 충주시 산척면 명서리 477-1",
+      "latitude": "37.07004137",
+      "longitude": "128.0314286",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "3",
+      "Name": "기러기 공원",
+      "description": "충남 금산군 제원면 천내리 1007",
+      "latitude": "36.11247623",
+      "longitude": "127.5780021",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "4",
+      "Name": "압록유원지",
+      "description": "전남 곡성군 죽곡면 하한리 1039",
+      "latitude": "35.18932274",
+      "longitude": "127.3725776",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "5",
+      "Name": "앵두공원",
+      "description": "전남 함평군 나산면 삼축리 1332-14",
+      "latitude": "35.11085949",
+      "longitude": "126.6107721",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "6",
+      "Name": "솔밭유원지 주차장 인근",
+      "description": "전남 나주시 남평읍 남석리 779",
+      "latitude": "35.01805139",
+      "longitude": "126.8545448",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "7",
+      "Name": "욕지도 덕동 해수욕장 주차장",
+      "description": "경남 통영시 욕지면 서산리 493-13",
+      "latitude": "34.63409081",
+      "longitude": "128.237577",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "8",
+      "Name": "약산 가사동백숲 방파제",
+      "description": "전남 완도군 약산면 해동리 938-2",
+      "latitude": "34.36853309",
+      "longitude": "126.9278396",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "9",
+      "Name": "노루벌 야영장",
+      "description": "대전 서구 흑성동 804",
+      "latitude": "35.84438927",
+      "longitude": "128.7167241",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "10",
+      "Name": "정선 미락숲",
+      "description": "강원 정선군 임계면 낙천리 126-2",
+      "latitude": "37.46926168",
+      "longitude": "128.8440053",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "11",
+      "Name": "지수리 금강변",
+      "description": "충북 옥천군 안남면 지수리 1332",
+      "latitude": "36.32206385",
+      "longitude": "127.6755521",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "12",
+      "Name": "삼길포항",
+      "description": "충남 서산시 대산읍 화곡리 1881",
+      "latitude": "37.00478922",
+      "longitude": "126.4518286",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "13",
+      "Name": "녹동 소록대교 밑",
+      "description": "전남 고흥군 도양읍 봉암리 2665-2",
+      "latitude": "34.52835312",
+      "longitude": "127.1235018",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "14",
+      "Name": "마곡유원지",
+      "description": "강원 홍천군 서면 마곡리 산 129",
+      "latitude": "37.72283484",
+      "longitude": "127.5831631",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "15",
+      "Name": "수주팔봉 강변",
+      "description": "충북 충주시 대소원면 문주리 산 1-1",
+      "latitude": "36.89947127",
+      "longitude": "127.9226369",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "16",
+      "Name": "청운교 인근",
+      "description": "경북 청송군 청송읍 청운리 1227-22",
+      "latitude": "36.39758428",
+      "longitude": "129.0685503",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "17",
+      "Name": "상보안 유원지 일대",
+      "description": "대전 서구 흑석동 738",
+      "latitude": "36.27665772",
+      "longitude": "127.3429717",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "18",
+      "Name": "금산 적벽강 야영장",
+      "description": "충북 충주시 산척면 명서리 477-1",
+      "latitude": "37.07004137",
+      "longitude": "128.0314286",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "19",
+      "Name": "금산 적벽강 주차장",
+      "description": "충남 금산군 부리면 수통리 산 101-6",
+      "latitude": "36.04522",
+      "longitude": "127.6038312",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "20",
+      "Name": "기천 저수지 상류",
+      "description": "경기 화성시 봉담읍 상기리 654",
+      "latitude": "37.19521455",
+      "longitude": "126.9107551",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "21",
+      "Name": "기천 저수지 하류",
+      "description": "경기 화성시 팔탄면 기천리 산 193",
+      "latitude": "37.18977477",
+      "longitude": "126.9017132",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "22",
+      "Name": "이포보 오토캠핑장 인근 강변",
+      "description": "경기 여주시 대신면 당남리 309-4",
+      "latitude": "37.38776654",
+      "longitude": "127.5464201",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "23",
+      "Name": "내지리 섬강 노지",
+      "description": "강원 횡성군 횡성읍 내지리 산 76-1",
+      "latitude": "37.51248412",
+      "longitude": "127.9975032",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "24",
+      "Name": "옥천 야영장 부근 금강변",
+      "description": "충북 옥천군 이원면 용방리 산 49",
+      "latitude": "36.25933181",
+      "longitude": "127.6426478",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "25",
+      "Name": "홍천강변",
+      "description": "강원 홍천군 서면 모곡리 산 234",
+      "latitude": "37.69117118",
+      "longitude": "127.6070329",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "26",
+      "Name": "홍천강 한덕교",
+      "description": "강원 춘천시 남면 한덕리 산 130",
+      "latitude": "37.69301612",
+      "longitude": "127.6124869",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "27",
+      "Name": "임고 강변공원",
+      "description": "경북 영천시 임고면 덕연리 163",
+      "latitude": "36.04617498",
+      "longitude": "128.9917121",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "28",
+      "Name": "호수공원 오토캠핑장",
+      "description": "전남 강진군 강진읍 송전리 766-6",
+      "latitude": "34.63918826",
+      "longitude": "126.7503659",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "29",
+      "Name": "가선리 금강변 다리 밑",
+      "description": "충북 영동군 양산면 가선리 494",
+      "latitude": "36.13073951",
+      "longitude": "127.6090599",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "30",
+      "Name": "수통리 금강변",
+      "description": "충남 금산군 부리면 수통리 112",
+      "latitude": "36.06484684",
+      "longitude": "127.5977016",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "31",
+      "Name": "섬강교 다리 밑",
+      "description": "강원 원주시 부론면 흥호리 1171",
+      "latitude": "37.23490024",
+      "longitude": "127.750201",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "32",
+      "Name": "가마섬 유원지",
+      "description": "경기 여주시 강천면 부평리 621",
+      "latitude": "37.25335096",
+      "longitude": "127.7526168",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "33",
+      "Name": "반곡 강변",
+      "description": "강원 홍천군 서면 반곡리 261",
+      "latitude": "37.69523301",
+      "longitude": "127.6680662",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "34",
+      "Name": "의성 빙계 야영장",
+      "description": "경북 의성군 춘산면 빙계리 1017-5",
+      "latitude": "36.23453878",
+      "longitude": "128.7695558",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "35",
+      "Name": "지석천 낚시 캠핑",
+      "description": "전남 나주시 남평읍 남석리 901",
+      "latitude": "35.01223411",
+      "longitude": "126.8605006",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "36",
+      "Name": "어섬 화성비행장",
+      "description": "경기 화성시 송산면 개매기길 4 ",
+      "latitude": "37.23616462",
+      "longitude": "126.6807655",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "37",
+      "Name": "남애항 부근 노지",
+      "description": "강원 양양군 현남면 남애리 70-11",
+      "latitude": "37.9397365",
+      "longitude": "128.7882866",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "38",
+      "Name": "시금리 초강천변",
+      "description": "충북 영동군 용산면 시금리 490",
+      "latitude": "36.2298393",
+      "longitude": "127.7843969",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "39",
+      "Name": "차산 노지 야영장",
+      "description": "경북 영천시 신녕면 치산리 산 125-5",
+      "latitude": "36.0451449",
+      "longitude": "128.7151901",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "40",
+      "Name": "까치내 유원지 강변",
+      "description": "충남 청양군 대치면 작천리 137",
+      "latitude": "36.39474655",
+      "longitude": "126.857949",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "41",
+      "Name": "무안 조금나루 유원지",
+      "description": "전남 무안군 망운면 조금나루길 297 ",
+      "latitude": "34.99481612",
+      "longitude": "126.3348682",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "42",
+      "Name": "하동 구재봉 활공장",
+      "description": "경남 하동군 악양면 축지리 산 71",
+      "latitude": "35.13042824",
+      "longitude": "127.7175839",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "43",
+      "Name": "철원 문혜리",
+      "description": "강원 철원군 갈말읍 문혜리 산 304-2",
+      "latitude": "38.16464044",
+      "longitude": "127.3443426",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "44",
+      "Name": "동검도 선착장 옆",
+      "description": "인천 강화군 길상면 동검길65번길 91-9 (동검리) ",
+      "latitude": "37.5874159",
+      "longitude": "126.521952",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "45",
+      "Name": "금사면 남한강변",
+      "description": "경기 여주시 금사면 전북리 480",
+      "latitude": "37.43494427",
+      "longitude": "127.5171945",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "46",
+      "Name": "전북리 유원지",
+      "description": "경기 여주시 산북면 용담리 384",
+      "latitude": "37.4362355",
+      "longitude": "127.502188",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "47",
+      "Name": "연천 임진강 주상절리",
+      "description": "경기 연천군 미산면 동이리 817",
+      "latitude": "38.01475805",
+      "longitude": "127.0010146",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "48",
+      "Name": "태백 너덜샘 야영장",
+      "description": "충북 충주시 산척면 명서리 477-1",
+      "latitude": "37.07004137",
+      "longitude": "128.0314286",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "49",
+      "Name": "석관정옆 영산강변",
+      "description": "전남 나주시 다시면 동당리 578",
+      "latitude": "34.99262656",
+      "longitude": "126.593515",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "50",
+      "Name": "양양 전진항옆 공터",
+      "description": "강원 양양군 강현면 전진리 3-22",
+      "latitude": "38.12432654",
+      "longitude": "128.6318161",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "51",
+      "Name": "강진 사초해변공원",
+      "description": "전남 강진군 신전면 사초리 853",
+      "latitude": "34.47063893",
+      "longitude": "126.7461829",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "52",
+      "Name": "소선암 자연발생 유원지 야영장",
+      "description": "충북 단양군 단성면 대잠리 574",
+      "latitude": "36.91700766",
+      "longitude": "128.3077395",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "53",
+      "Name": "오천 솔밭유원지 야영장",
+      "description": "경북 영덕군 지품면 오천리 165-4",
+      "latitude": "36.42557134",
+      "longitude": "129.3278749",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "54",
+      "Name": "딱산 유원지",
+      "description": "강원 화천군 간동면 구만리 1313-3",
+      "latitude": "38.12416983",
+      "longitude": "127.7623706",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "55",
+      "Name": "미천 공원",
+      "description": "경북 고령군 덕곡면 노리 1181",
+      "latitude": "35.79957441",
+      "longitude": "128.184096",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "56",
+      "Name": "망양 휴게소 옆",
+      "description": "경북 울진군 매화면 덕신리 107-4",
+      "latitude": "36.87731492",
+      "longitude": "129.4194799",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "57",
+      "Name": "달천",
+      "description": "충북 청주시 상당구 미원면 옥화리 355",
+      "latitude": "36.61390705",
+      "longitude": "127.7024438",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "58",
+      "Name": "유곡천 다목적 캠핑장",
+      "description": "경상남도 의령군 유곡면 박진로 13 ",
+      "latitude": "35.44427917",
+      "longitude": "128.3511801",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "59",
+      "Name": "개야리 홍천강변",
+      "description": "강원 홍천군 서면 개야리 산 93",
+      "latitude": "37.6894092",
+      "longitude": "127.6324878",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "60",
+      "Name": "개야리 유원지",
+      "description": "강원 홍천군 서면 개야리 154-8",
+      "latitude": "37.69003697",
+      "longitude": "127.6243439",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "61",
+      "Name": "송산유원지 주차장",
+      "description": "광주 광산구 송산동 387",
+      "latitude": "35.16255075",
+      "longitude": "126.7219179",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "62",
+      "Name": "진주 남강변",
+      "description": "경남 진주시 내동면 삼계리 산 347",
+      "latitude": "35.16008466",
+      "longitude": "128.0482206",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "63",
+      "Name": "밀약 낙동대교 다리밑",
+      "description": "경남 밀양시 삼랑진읍 송지리 493-2",
+      "latitude": "35.39029079",
+      "longitude": "128.8366753",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "64",
+      "Name": "산내 청룡폭포 노지",
+      "description": "경북 경주시 산내면 외칠리 산 213",
+      "latitude": "35.75937588",
+      "longitude": "129.0441648",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "65",
+      "Name": "고소바위공원 야영장",
+      "description": "전북 남원시 산동면 대기리 1027-207",
+      "latitude": "35.49362857",
+      "longitude": "127.4921687",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "66",
+      "Name": "도비도 노지",
+      "description": "충남 당진시 석문면 난지도리 535",
+      "latitude": "37.01947742",
+      "longitude": "126.4610068",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "67",
+      "Name": "암새들앞 공용 주차장",
+      "description": "경남 밀양시 용평동 118-14",
+      "latitude": "35.48465349",
+      "longitude": "128.7809706",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "68",
+      "Name": "양단유원지",
+      "description": "경남 밀양시 단장면 단장리 922-1",
+      "latitude": "35.51360235",
+      "longitude": "128.8467419",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "69",
+      "Name": "산외면 체육공원 주차장",
+      "description": "경남 밀양시 산외면 금곡리 105-1",
+      "latitude": "35.51197674",
+      "longitude": "128.8431393",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "70",
+      "Name": "문막읍 섬강변",
+      "description": "강원 원주시 문막읍 건등리 1325",
+      "latitude": "37.31768096",
+      "longitude": "127.8059798",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "71",
+      "Name": "나진피서지",
+      "description": "전남 여수시 화양면 나진리 394-6",
+      "latitude": "34.70292068",
+      "longitude": "127.6160831",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "72",
+      "Name": "한적한 방파제",
+      "description": "전남 고흥군 영남면 남열리 산 217",
+      "latitude": "34.57524118",
+      "longitude": "127.4731525",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "73",
+      "Name": "백운정 유원지",
+      "description": "경북 안동시 임하면 천전리 1084-7",
+      "latitude": "36.53201963",
+      "longitude": "128.8601019",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "74",
+      "Name": "주전가족 휴양지 캠핑장",
+      "description": "울산 동구 주전동 714-4",
+      "latitude": "35.55171762",
+      "longitude": "129.4549842",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "75",
+      "Name": "서면 바닷가 솔밭",
+      "description": "충남 서천군 서면 도둔리 914-12",
+      "latitude": "36.15148902",
+      "longitude": "126.5107678",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "76",
+      "Name": "홍원항 등대 방파제 주차장",
+      "description": "충남 서천군 서면 도둔리 1471",
+      "latitude": "36.15746685",
+      "longitude": "126.5049527",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "77",
+      "Name": "진도 접도 주차장",
+      "description": "전남 진도군 의신면 금갑리 980-1",
+      "latitude": "34.37486078",
+      "longitude": "126.296852",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "78",
+      "Name": "영광 와탄천변 비밀의 화원",
+      "description": "전남 영광군 법성면 입암리 435-4",
+      "latitude": "35.34141948",
+      "longitude": "126.4428986",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "79",
+      "Name": "대창골",
+      "description": "충남 천안시 동남구 북면 운용리 117",
+      "latitude": "36.87565373",
+      "longitude": "127.2711564",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "80",
+      "Name": "춘천 수변공원",
+      "description": "강원 춘천시 삼천동 200-9",
+      "latitude": "37.87252681",
+      "longitude": "127.7002482",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "81",
+      "Name": "이가리 간이해변",
+      "description": "경북 포항시 북구 청하면 이가리 산 22-1",
+      "latitude": "36.18543381",
+      "longitude": "129.3825753",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "82",
+      "Name": "하옥계곡 야영장",
+      "description": "경북 포항시 북구 죽장면 하옥리 681",
+      "latitude": "36.29139395",
+      "longitude": "129.2496795",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "83",
+      "Name": "위배지미하류",
+      "description": "경북 포항시 북구 죽장면 하옥리 650-3",
+      "latitude": "36.29854625",
+      "longitude": "129.2458464",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "84",
+      "Name": "진천 상송교",
+      "description": "충북 진천군 백곡면 석현리 330-1",
+      "latitude": "36.88085841",
+      "longitude": "127.3793233",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "85",
+      "Name": "청벽산 물골 유원지",
+      "description": "강원 홍천군 내촌면 화상대리 산 377",
+      "latitude": "37.80264188",
+      "longitude": "128.0135095",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "86",
+      "Name": "원남지",
+      "description": "충북 음성군 원남면 조춘리 376-6",
+      "latitude": "36.89958861",
+      "longitude": "127.684907",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "87",
+      "Name": "쌍다리 야영장",
+      "description": "강원 인제군 남면 소치리 산 21",
+      "latitude": "37.94713647",
+      "longitude": "128.1423842",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "88",
+      "Name": "곰실교 다리밑",
+      "description": "경북 울진군 기성면 정명리 879-1",
+      "latitude": "36.80361442",
+      "longitude": "129.4295437",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "89",
+      "Name": "여주 신륵사 입구 강변",
+      "description": "경기 여주시 천송동 575",
+      "latitude": "37.29850747",
+      "longitude": "127.6508637",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "90",
+      "Name": "순천 용오름 계곡",
+      "description": "전남 순천시 주암면 운룡리 1019",
+      "latitude": "35.10553407",
+      "longitude": "127.2014027",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "91",
+      "Name": "가덕교 근처 금강변",
+      "description": "충북 옥천군 동이면 청마리 1105-1",
+      "latitude": "36.31202662",
+      "longitude": "127.6820786",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "92",
+      "Name": "작천교 다리밑",
+      "description": "충남 청양군 대치면 작천리 138",
+      "latitude": "36.3940488",
+      "longitude": "126.8588957",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "93",
+      "Name": "관성 솔밭",
+      "description": "경북 경주시 양남면 수렴리 425-1",
+      "latitude": "35.66205595",
+      "longitude": "129.4521349",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "94",
+      "Name": "풍서천변",
+      "description": "충남 천안시 동남구 광덕면 보산원리 687-1",
+      "latitude": "36.68994576",
+      "longitude": "127.0806346",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "95",
+      "Name": "광덕산 간이 캠핑장",
+      "description": "충남 천안시 동남구 광덕면 대덕리 420",
+      "latitude": "36.69374133",
+      "longitude": "127.094402",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "96",
+      "Name": "인삼골 캠핑장 주변 금강변",
+      "description": "충남 금산군 제원면 용화리 711-1",
+      "latitude": "36.09540085",
+      "longitude": "127.5926469",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "97",
+      "Name": "고성 장신유원지",
+      "description": "강원 고성군 간섭읍 소똥령마을길 32 (장신리, 장신유원지휴게소)",
+      "latitude": "38.33050712",
+      "longitude": "128.3784047",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "98",
+      "Name": "천안 OK캠핑장 주변",
+      "description": "충남 천안시 동남구 북면 명덕리 603-6",
+      "latitude": "36.8182147",
+      "longitude": "127.2755685",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "99",
+      "Name": "오지재고개 주변",
+      "description": "경기 동두천시 탑동동 산 40",
+      "latitude": "37.8757478",
+      "longitude": "127.1342043",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "100",
+      "Name": "목계솔밭",
+      "description": "충북 충주시 중앙탑면 장천리 412-2",
+      "latitude": "37.07395203",
+      "longitude": "127.8814422",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "101",
+      "Name": "섬강 문막교 주변",
+      "description": "강원 원주시 문막읍 취병리 438-73",
+      "latitude": "37.30435294",
+      "longitude": "127.8088052",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "102",
+      "Name": "김제 금평저수지",
+      "description": "전북 김제시 금산면 금산리 산 106-2",
+      "latitude": "35.7190289",
+      "longitude": "127.0172508",
+      "toilet": "사용불가",
+      "sink": "사용가능",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "103",
+      "Name": "단월강수욕장 주변",
+      "description": "충북 충주시 풍동 408-1",
+      "latitude": "36.94088837",
+      "longitude": "127.9058388",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "104",
+      "Name": "화순 송석정 유원지",
+      "description": "전남 화순군 청풍면 풍암리 산 114",
+      "latitude": "34.93735227",
+      "longitude": "126.9896746",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "105",
+      "Name": "문경 소야솔밭",
+      "description": "경북 문경시 마성면 오천리 845-2",
+      "latitude": "36.69177146",
+      "longitude": "128.1182319",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "106",
+      "Name": "평창 바위공원",
+      "description": "강원 평창군 평창읍 중리 357",
+      "latitude": "37.37252094",
+      "longitude": "128.4099955",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "107",
+      "Name": "섬강 유원지 부근",
+      "description": "강원 횡성군 횡성읍 북천리 221",
+      "latitude": "37.50052146",
+      "longitude": "127.9924902",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "108",
+      "Name": "모곡밤벌 유원지",
+      "description": "강원 홍천군 서면 모곡리 산 234",
+      "latitude": "37.69117118",
+      "longitude": "127.6070329",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "109",
+      "Name": "횡성 농거리 야영장",
+      "description": "강원 홍성군 청일면 유동리 1150",
+      "latitude": "37.57912762",
+      "longitude": "128.1423814",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "110",
+      "Name": "홍천 도사곡교 강변",
+      "description": "강원 홍천군 북방면 굴지리 산 63",
+      "latitude": "37.70581581",
+      "longitude": "127.7978723",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "111",
+      "Name": "홍천강3교 다리 밑",
+      "description": "강원 홍천군 북방면 소매곡리 산 16-1",
+      "latitude": "37.71237709",
+      "longitude": "127.8169089",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "112",
+      "Name": "석모도 어류정항",
+      "description": "인천 강화군 삼산면 매음리 1157",
+      "latitude": "37.6442883",
+      "longitude": "126.3428745",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "113",
+      "Name": "탄도 인공 습지공원",
+      "description": "경기 화성시 송산면 송산서로 183-26",
+      "latitude": "37.21939453",
+      "longitude": "126.6929302",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "114",
+      "Name": "영광 백바위 해변",
+      "description": "전남 영광군 염산면 두우리 631",
+      "latitude": "35.24356992",
+      "longitude": "126.3072157",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "115",
+      "Name": "남양주 북한강변",
+      "description": "경기 남양주시 화도읍 구암리 98-2",
+      "latitude": "37.66679855",
+      "longitude": "127.3746261",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "116",
+      "Name": "광탄리 유원지",
+      "description": "경기 양평군 용문면 광탄리 산 54",
+      "latitude": "37.51264131",
+      "longitude": "127.6376144",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "117",
+      "Name": "본포 수변생태공원",
+      "description": "경남 창원시 의창구 동읍 본포리 142-4",
+      "latitude": "35.37106268",
+      "longitude": "128.6467429",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "118",
+      "Name": "필례 약수터",
+      "description": "강원 인제군 인제읍 귀둔리 1055-1",
+      "latitude": "38.07429431",
+      "longitude": "128.3699868",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "119",
+      "Name": "보성 군학마을 솔밭",
+      "description": "전남 보성군 회천면 남부관광로 1814-6",
+      "latitude": "34.64938559",
+      "longitude": "127.0578531",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "120",
+      "Name": "송악저수지",
+      "description": "충남 아산시 송악면 궁평리 212-1",
+      "latitude": "36.71287722",
+      "longitude": "126.9908164",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "121",
+      "Name": "순긋해변",
+      "description": "강원 강릉시 안현동 233-3",
+      "latitude": "37.8160655",
+      "longitude": "128.8939962",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "122",
+      "Name": "광치기 해변",
+      "description": "제주특별자치도 서귀포시 성산읍 고성리 224-7",
+      "latitude": "33.43950599",
+      "longitude": "126.9214269",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "123",
+      "Name": "이포보 노지",
+      "description": "경기 여주시 대신면 당남리 318",
+      "latitude": "37.3871818",
+      "longitude": "127.5480322",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "124",
+      "Name": "장성 황룡 전적지",
+      "description": "전남 장성군 황룡면 장산리 360-2",
+      "latitude": "35.29597038",
+      "longitude": "126.7546766",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "125",
+      "Name": "지천 강변",
+      "description": "충남 청양군 장평면 지천리 275-1",
+      "latitude": "36.38910195",
+      "longitude": "126.8616483",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "126",
+      "Name": "천안 은석교 주변",
+      "description": "충남 천안시 동남구 북면 용암리 341",
+      "latitude": "36.78894",
+      "longitude": "127.2596505",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "127",
+      "Name": "비내섬",
+      "description": "충북 충주시 앙성면 조천리 412",
+      "latitude": "37.10671305",
+      "longitude": "127.8149389",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "128",
+      "Name": "단지골 야영장",
+      "description": "강원 횡성군 안흥면 안흥리 산 109",
+      "latitude": "37.39742863",
+      "longitude": "128.1334167",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "129",
+      "Name": "안악해수욕장 솔밭",
+      "description": "전남 함평군 손불면 월천리 1140",
+      "latitude": "35.14007612",
+      "longitude": "126.3906374",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "130",
+      "Name": "원서천변 노지",
+      "description": "충북 충주시 산척면 석천리 산 3-4",
+      "latitude": "37.09456355",
+      "longitude": "128.0586563",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "131",
+      "Name": "고마나루 솔밭 공터",
+      "description": "충남 공주시 웅진동 458",
+      "latitude": "36.46785525",
+      "longitude": "127.1051054",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "132",
+      "Name": "거제도 해변",
+      "description": "경남 거제시 동부면 학동리 산 12-24",
+      "latitude": "34.78007201",
+      "longitude": "128.6571387",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "133",
+      "Name": "장수 덕산제 주변 공터",
+      "description": "전북 장수군 장수읍 덕산리 804",
+      "latitude": "35.61289551",
+      "longitude": "127.5512982",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "134",
+      "Name": "연하계곡",
+      "description": "강원 영월군 영월읍 연하리 1071",
+      "latitude": "37.18856557",
+      "longitude": "128.5414778",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "135",
+      "Name": "병지방 오토캠핑장 주변 계곡",
+      "description": "강원 횡성군 갑천면 병지방리 산 20",
+      "latitude": "37.58975943",
+      "longitude": "128.0791286",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "136",
+      "Name": "금강2교 차박지A",
+      "description": "충북 옥천군 동이면 금암리 1139",
+      "latitude": "36.28452752",
+      "longitude": "127.6454909",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "137",
+      "Name": "금강2교 차박지B",
+      "description": "충북 옥천군 동이면 적하리 1419",
+      "latitude": "36.27231206",
+      "longitude": "127.6472402",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "138",
+      "Name": "남노일 강변유원지",
+      "description": "강원 홍천군 남면 남노일리 369",
+      "latitude": "37.67777513",
+      "longitude": "127.7607022",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "139",
+      "Name": "강정 자연발생 유원지A",
+      "description": "경남 함양군 유림면 장항리 산 1-1",
+      "latitude": "35.48185374",
+      "longitude": "127.8058987",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "140",
+      "Name": "강정 자연발생 유원지B",
+      "description": "경남 산청군 생초면 산수로 1153번길 151",
+      "latitude": "35.48416828",
+      "longitude": "127.8086097",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "141",
+      "Name": "도장계곡 자연발생유원지",
+      "description": "경기 양평군 서종면 도장리 321",
+      "latitude": "37.60460294",
+      "longitude": "127.3871091",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "142",
+      "Name": "수룡계곡 주차장",
+      "description": "충북 충주시 노은면 수룡리 산 32-1",
+      "latitude": "37.06008771",
+      "longitude": "127.7989994",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "143",
+      "Name": "백제보 나루터 주변 금강변",
+      "description": "충남 부여군 부여읍 정동리 184-1",
+      "latitude": "36.31447155",
+      "longitude": "126.934361",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "144",
+      "Name": "부여 수리바위 광장",
+      "description": "충남 부여군 외산면 만수리 산 29-4",
+      "latitude": "36.29284244",
+      "longitude": "126.6986132",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "145",
+      "Name": "함양 남강 물줄기 계곡",
+      "description": "경남 함양군 서하면 봉전리 2021",
+      "latitude": "35.63520079",
+      "longitude": "127.7194726",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "146",
+      "Name": "아랫당숲 캠핑장",
+      "description": "강원 원주시 신림면 성남리 1061",
+      "latitude": "37.27520103",
+      "longitude": "128.0843955",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "147",
+      "Name": "추평저수지A",
+      "description": "충북 충주시 엄정면 가춘리 753-6",
+      "latitude": "37.1326116",
+      "longitude": "127.9343118",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "148",
+      "Name": "추평저수지B",
+      "description": "충북 충주시 엄정면 가춘리 486",
+      "latitude": "37.1331736",
+      "longitude": "127.9429966",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "149",
+      "Name": "임실군 섬진강변",
+      "description": "전북 임실군 덕치면 천담리 105-4",
+      "latitude": "35.49580072",
+      "longitude": "127.1889185",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "150",
+      "Name": "용동 해수욕장 솔밭",
+      "description": "전남 고흥군 도덕면 용동리 590",
+      "latitude": "34.63230412",
+      "longitude": "127.182953",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "151",
+      "Name": "남성리 해수욕장 솔밭",
+      "description": "전남 고흥군 포두면 남성리 203-1",
+      "latitude": "34.52030504",
+      "longitude": "127.4075266",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "152",
+      "Name": "고창CC 주변 노지",
+      "description": "전북 고창군 심원면 고전리 산 24-14",
+      "latitude": "35.52479149",
+      "longitude": "126.5021735",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "153",
+      "Name": "고병계곡",
+      "description": "강원 정선군 남면 유평리 65",
+      "latitude": "37.28821594",
+      "longitude": "128.7582717",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "154",
+      "Name": "거창자연발생유원지 계곡상류A",
+      "description": "경남 거창군 가조면 수월리 산 11",
+      "latitude": "35.73222743",
+      "longitude": "128.0371012",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "155",
+      "Name": "거창자연발생유원지 계곡상류B",
+      "description": "경남 거창군 가조면 수월리 산 11-4",
+      "latitude": "35.72852917",
+      "longitude": "128.0369804",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "156",
+      "Name": "봉길해변",
+      "description": "경북 경주시 양북면 봉길리 6-12",
+      "latitude": "35.74173617",
+      "longitude": "129.4826057",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "157",
+      "Name": "울산 해변수변공원",
+      "description": "울산 북구 판지1길 5",
+      "latitude": "35.61345903",
+      "longitude": "129.4527714",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "158",
+      "Name": "구암마을 주전해변",
+      "description": "울산 북구 어물동 272-1",
+      "latitude": "35.57236299",
+      "longitude": "129.452055",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "159",
+      "Name": "안성천변",
+      "description": "경기 평택시 오성면 당거리 223-2",
+      "latitude": "36.99302197",
+      "longitude": "126.9841906",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "160",
+      "Name": "화진해수욕장",
+      "description": "경북 포항시 북구 송라면 지경리 334",
+      "latitude": "36.25318364",
+      "longitude": "129.3729115",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "161",
+      "Name": "우천 자연발생 유원지",
+      "description": "경남 사천시 사남면 우천리 1231-1",
+      "latitude": "35.03697641",
+      "longitude": "128.1200563",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "162",
+      "Name": "대조못 수변공원 야영지",
+      "description": "경북 상주시 함창읍 대조리 638-1",
+      "latitude": "36.58003943",
+      "longitude": "128.1698155",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "163",
+      "Name": "적봉교 다리밑",
+      "description": "경기 평택시 서탄면 금암리 126-10",
+      "latitude": "37.10113528",
+      "longitude": "127.0397484",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "164",
+      "Name": "청천 수변공원B",
+      "description": "충북 괴산군 청천면 후평리 550",
+      "latitude": "36.6552061",
+      "longitude": "127.7531524",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "165",
+      "Name": "청천 수변공원A",
+      "description": "충북 괴산군 청천면 후평리 550",
+      "latitude": "36.6552061",
+      "longitude": "127.7531524",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "166",
+      "Name": "장등해수욕장 주차장",
+      "description": "전남 여수시 화양면 장수리 319",
+      "latitude": "34.64502572",
+      "longitude": "127.6083192",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "167",
+      "Name": "초상제 공터",
+      "description": "전남 진도군 의신면 초사리 1100-1",
+      "latitude": "34.44424693",
+      "longitude": "126.3285863",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "168",
+      "Name": "간월호 쉼터공원",
+      "description": "충남 서산시 부석면 창리 265-1",
+      "latitude": "36.62285475",
+      "longitude": "126.3771498",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "169",
+      "Name": "지곡사 계곡",
+      "description": "경남 산청군 산청읍 내리 1125",
+      "latitude": "35.3837078",
+      "longitude": "127.8751671",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "170",
+      "Name": "천장호 노지",
+      "description": "충남 청양군 정산면 마치리 49-2",
+      "latitude": "36.41941018",
+      "longitude": "126.9178738",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "171",
+      "Name": "광품폭포B",
+      "description": "경북 울진군 온정면 광품리 59-1",
+      "latitude": "36.7195918",
+      "longitude": "129.4102199",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "172",
+      "Name": "광품폭포A",
+      "description": "경북 울진군 온정면 광품리 215-3",
+      "latitude": "36.72075396",
+      "longitude": "129.4070714",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "173",
+      "Name": "후정해수욕장",
+      "description": "경북 울진군 죽변면 후정리 53-8",
+      "latitude": "37.07144436",
+      "longitude": "129.4135519",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "174",
+      "Name": "현경면 해변",
+      "description": "전남 무안군 현경면 용정리 18-7",
+      "latitude": "35.08271996",
+      "longitude": "126.3932895",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "175",
+      "Name": "금강변 노지",
+      "description": "전북 장수군 천천면 용광리 484",
+      "latitude": "35.75741426",
+      "longitude": "127.5388868",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "176",
+      "Name": "양평 율리교 밑 강변",
+      "description": "경기 양평군 청운면 비룡리 824",
+      "latitude": "37.52758024",
+      "longitude": "127.6848784",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "177",
+      "Name": "백곡지 상류",
+      "description": "충북 진천군 진천읍 건송리 523-2",
+      "latitude": "36.88162594",
+      "longitude": "127.4016357",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "178",
+      "Name": "대청호 부수골",
+      "description": "대전 대덕구 부수동 63-1",
+      "latitude": "36.43707129",
+      "longitude": "127.4817866",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "179",
+      "Name": "생태습지 공터",
+      "description": "대전 대덕구 이현동 1",
+      "latitude": "36.4189702",
+      "longitude": "127.4710252",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "180",
+      "Name": "진안 가막 유원지",
+      "description": "전북 진안군 진안읍 가막리 209-2",
+      "latitude": "35.80681337",
+      "longitude": "127.5168561",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "181",
+      "Name": "지촌천변",
+      "description": "강원 춘천시 사북면 지촌리 15-1",
+      "latitude": "38.05089313",
+      "longitude": "127.6527342",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "182",
+      "Name": "동산해수욕장 솔밭",
+      "description": "강원 양양군 현남면 동산리 203-54",
+      "latitude": "37.98176172",
+      "longitude": "128.7564129",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "183",
+      "Name": "당전저수지 노지",
+      "description": "전남 강진군 대구면 용운리 산 94-37",
+      "latitude": "34.52660127",
+      "longitude": "126.8276814",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "184",
+      "Name": "안동 천지교 주변",
+      "description": "경북 안동시 길안면 천지리 594-1",
+      "latitude": "36.4560379",
+      "longitude": "128.8983178",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "185",
+      "Name": "담양 오례천변",
+      "description": "전남 담양군 봉산면 제월리 793-7",
+      "latitude": "35.27910732",
+      "longitude": "126.9511744",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "186",
+      "Name": "매전교 주변",
+      "description": "경북 청도군 매전면 당호리 466-9",
+      "latitude": "35.67381046",
+      "longitude": "128.8675152",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "187",
+      "Name": "매호유원지",
+      "description": "경북 봉화군 명호면 도천리 산 348",
+      "latitude": "36.86541821",
+      "longitude": "128.9038065",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "188",
+      "Name": "무주 산댐이골",
+      "description": "충남 금산군 부리면 방우리 46-1",
+      "latitude": "36.02994045",
+      "longitude": "127.6263994",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "189",
+      "Name": "장암산 해피700 활공장",
+      "description": "강원 평창군 평창읍 여만리 산 46",
+      "latitude": "37.38378834",
+      "longitude": "128.4153215",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "190",
+      "Name": "나아 해변 노지",
+      "description": "경북 경주시 양남면 나아리 844-11",
+      "latitude": "35.70105799",
+      "longitude": "129.4727348",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "191",
+      "Name": "부사호",
+      "description": "충남 서천군 서면 부사리 987",
+      "latitude": "36.18140879",
+      "longitude": "126.5256106",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "192",
+      "Name": "천안 마도 방파제",
+      "description": "충남 태안군 근흥면 마도길 273",
+      "latitude": "36.67913592",
+      "longitude": "126.1270434",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "193",
+      "Name": "신기교 노지",
+      "description": "경북 영덕군 창수면 신기리 산 331",
+      "latitude": "36.54572451",
+      "longitude": "129.3511796",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "194",
+      "Name": "산림청연수원 주차장",
+      "description": "전북 부안군 변산면 도청리 212-5",
+      "latitude": "35.58429132",
+      "longitude": "126.5003159",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "195",
+      "Name": "장전계곡 상류",
+      "description": "강원 평창군 진부면 장전리 97",
+      "latitude": "37.48655619",
+      "longitude": "128.5426765",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "196",
+      "Name": "정선 어천 주상절리 (SUV차량만)",
+      "description": "강원 정선군 정선읍 덕우리 303-1",
+      "latitude": "37.36857374",
+      "longitude": "128.7177697",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "197",
+      "Name": "광암해수욕장",
+      "description": "경남 창원시 마산합포구 진동면 요장리 230",
+      "latitude": "35.10282949",
+      "longitude": "128.5004933",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "198",
+      "Name": "외양포항 주차장",
+      "description": "부산 강서구 대항동 산 13-23",
+      "latitude": "35.00561097",
+      "longitude": "128.8251728",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "199",
+      "Name": "알뜨르비행장 주변 공터",
+      "description": "제주특별자치도 서귀포시 대정읍 상모리 1670-3",
+      "latitude": "33.20002212",
+      "longitude": "126.2760622",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "200",
+      "Name": "감포읍 해변 노지",
+      "description": "경북 경주시 감포읍 전촌리 산 13-1",
+      "latitude": "35.79589906",
+      "longitude": "129.4997981",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "201",
+      "Name": "대본2리 해변 주차장",
+      "description": "경상북도 경주시 감포읍 동해안로 1618 ",
+      "latitude": "35.75353699",
+      "longitude": "129.4927293",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "202",
+      "Name": "괴산 외쌍 유원지",
+      "description": "충북 괴산군 칠성면 쌍곡리 232-1",
+      "latitude": "36.77865737",
+      "longitude": "127.8877679",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "203",
+      "Name": "논산 병암 유원지",
+      "description": "충남 논산시 가야곡면 병암리 570-4",
+      "latitude": "36.17024955",
+      "longitude": "127.2014961",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "204",
+      "Name": "장사해변 졸음쉼터 주변",
+      "description": "경북 영덕군 남정면 장사리 4-3",
+      "latitude": "36.2877351",
+      "longitude": "129.374385",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "205",
+      "Name": "섭새강변 유원지",
+      "description": "강원도 영월군 영월읍 삼옥리 199-3",
+      "latitude": "37.23307126",
+      "longitude": "128.5139394",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "206",
+      "Name": "유곡천 수변공원",
+      "description": "경남 의령군 유곡면 칠곡리 515",
+      "latitude": "35.42231761",
+      "longitude": "128.3075828",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "207",
+      "Name": "목도 강변유원지",
+      "description": "충북 괴산군 불정면 목도리 864-19",
+      "latitude": "36.87621937",
+      "longitude": "127.8574685",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "208",
+      "Name": "유동 둔치 휴양지",
+      "description": "강원 평창군 평창읍 유동리 293",
+      "latitude": "37.34404024",
+      "longitude": "128.3877696",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "209",
+      "Name": "화천박물관",
+      "description": "강원 화천군 하남면 위라리 509-2",
+      "latitude": "38.09897318",
+      "longitude": "127.7062756",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "210",
+      "Name": "괴산 후영교 주변",
+      "description": "충북 괴산군 청천면 후영리 143-5",
+      "latitude": "36.69800906",
+      "longitude": "127.8037351",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "211",
+      "Name": "추령천 노지",
+      "description": "전북 정읍시 산내면 매죽리 565",
+      "latitude": "35.54906948",
+      "longitude": "127.0158045",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "212",
+      "Name": "봄여름가을이야기 펜션 주변",
+      "description": "경북 봉화군 법전면 소천리 871",
+      "latitude": "36.8889407",
+      "longitude": "128.9273189",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "213",
+      "Name": "장삼포해수욕장 솔밭",
+      "description": "충남 태안군 고남면 큰장돌길 283-33  ",
+      "latitude": "36.42244052",
+      "longitude": "126.3609333",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "214",
+      "Name": "용담 섬바위 강변",
+      "description": "전북 진안군 안천면 삼락리 1595",
+      "latitude": "35.95252524",
+      "longitude": "127.5285595",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "215",
+      "Name": "염치저수지",
+      "description": "충남 아산시 염치읍 동정리 220",
+      "latitude": "36.8280275",
+      "longitude": "127.0004302",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "216",
+      "Name": "대부도 메추리섬 노지",
+      "description": "경기 안산시 단원구 대부남동 1345-3",
+      "latitude": "37.199056",
+      "longitude": "126.5348489",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "217",
+      "Name": "중산저수지 노지",
+      "description": "충북 충주시 수안보면 중산리 125-2",
+      "latitude": "36.87559127",
+      "longitude": "128.0087329",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "218",
+      "Name": "오두교 다리밑",
+      "description": "경기 남양주시 진접읍 부평리 498-6",
+      "latitude": "37.74587131",
+      "longitude": "127.1985707",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "219",
+      "Name": "영종도 노지",
+      "description": "인천 중구 운남동 1754-9",
+      "latitude": "37.47881726",
+      "longitude": "126.5456987",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "220",
+      "Name": "삼척 해변 주변",
+      "description": "강원 삼척시 갈천동 14-18",
+      "latitude": "37.4688783",
+      "longitude": "129.1665138",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "221",
+      "Name": "태안 방포항 부근 노지",
+      "description": "충남 태안군 안면읍 승언리 1317-19",
+      "latitude": "36.5043597",
+      "longitude": "126.3350716",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "222",
+      "Name": "노산리 솔밭 자연유원지",
+      "description": "충북 청주시 서원구 현도면 노산리 897-2",
+      "latitude": "36.45405386",
+      "longitude": "127.4412637",
+      "toilet": "사용불가",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "223",
+      "Name": "홍천 성동리 성동천변",
+      "description": "강원 홍천군 북방면 성동리 721-4",
+      "latitude": "37.74196301",
+      "longitude": "127.8801541",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "224",
+      "Name": "금소생태공원",
+      "description": "경북 안동시 임하면 금소리 1028-88",
+      "latitude": "36.50304982",
+      "longitude": "128.85518",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "225",
+      "Name": "하동 상이리 횡천강 계곡",
+      "description": "경남 하동군 청암면 상이리 505-6",
+      "latitude": "35.18693656",
+      "longitude": "127.7833802",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "226",
+      "Name": "덕산기계곡 주변",
+      "description": "강원 정선군 정선읍 덕우리 산 39-4",
+      "latitude": "37.37186896",
+      "longitude": "128.7336986",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "227",
+      "Name": "모암저수지 주차장",
+      "description": "전남 장성군 서삼면 모암리 569-5",
+      "latitude": "35.37392014",
+      "longitude": "126.7563977",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "228",
+      "Name": "운일암 반일암",
+      "description": "전북 진안군 주천면 대불리 26",
+      "latitude": "35.98181928",
+      "longitude": "127.3900123",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "229",
+      "Name": "만다라화 시 공원",
+      "description": "경남 거제시 동부면 부춘리 산 56-2",
+      "latitude": "34.79926386",
+      "longitude": "128.6121091",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "230",
+      "Name": "고령 신촌유원지 캠핑장",
+      "description": "경북 고령군 쌍림면 산주리 797-1",
+      "latitude": "35.67066009",
+      "longitude": "128.1798831",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "231",
+      "Name": "염포 해변",
+      "description": "전남 고흥군 봉래면 외초리 325-5",
+      "latitude": "34.43121219",
+      "longitude": "127.4935548",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "232",
+      "Name": "진리해변 주차장",
+      "description": "경북 경주시 양남면 진리길 17 ",
+      "latitude": "35.67992714",
+      "longitude": "129.4674472",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "233",
+      "Name": "봉화 삼계 쉼터",
+      "description": "경북 봉화군 봉화읍 삼계리 32-5",
+      "latitude": "36.89523225",
+      "longitude": "128.7385573",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "234",
+      "Name": "문암 해변 노지",
+      "description": "강원 삼척시 근덕면 초곡리 287-2",
+      "latitude": "37.30980278",
+      "longitude": "129.2871265",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "235",
+      "Name": "부안 궁항 주차장",
+      "description": "전북 부안군 변산면 격포리 720-2",
+      "latitude": "35.60329962",
+      "longitude": "126.4687765",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "236",
+      "Name": "남한강대교B",
+      "description": "충북 충주시 앙성면 단암리 95-1",
+      "latitude": "37.20382861",
+      "longitude": "127.7442209",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "237",
+      "Name": "남한강대교A",
+      "description": "강원 원주시 부론면 법천리 1617",
+      "latitude": "37.20039372",
+      "longitude": "127.7481886",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "238",
+      "Name": "평창 방림리 평창강변",
+      "description": "강원 평창군 방림면 방림리 576-1",
+      "latitude": "37.43991587",
+      "longitude": "128.4203263",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "239",
+      "Name": "개수리 노지",
+      "description": "강원 평창군 대화면 개수리 733",
+      "latitude": "37.50362709",
+      "longitude": "128.3876803",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "240",
+      "Name": "법흥계곡 노지",
+      "description": "강원 영월군 무릉도원면 법흥리 산 1-1",
+      "latitude": "37.36750851",
+      "longitude": "128.2816433",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "241",
+      "Name": "홍천 굴지리 노지",
+      "description": "강원 홍천군 북방면 굴지리 산 63",
+      "latitude": "37.70581581",
+      "longitude": "127.7978723",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "242",
+      "Name": "평창 뇌운리 노지",
+      "description": "강원 평창군 평창읍 뇌운리 121-7",
+      "latitude": "37.41791882",
+      "longitude": "128.3628362",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "243",
+      "Name": "평창 하일리",
+      "description": "강원 평창군 평창읍 하일리 산 1-1",
+      "latitude": "37.39739075",
+      "longitude": "128.3566464",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "244",
+      "Name": "찬샘마을 오지 (SUV차량만)",
+      "description": "대전 대덕구 갈전동 산 23-10",
+      "latitude": "36.42032844",
+      "longitude": "127.4748776",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "245",
+      "Name": "무주 대소교 주변",
+      "description": "전북 무주군 부남면 대소리 492",
+      "latitude": "35.97485784",
+      "longitude": "127.5570726",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "246",
+      "Name": "금산 무지개다리 강변",
+      "description": "충남 금산군 부리면 평촌리 10-5",
+      "latitude": "36.07635998",
+      "longitude": "127.5718921",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "247",
+      "Name": "영월 주천2교 주변",
+      "description": "강원 영월군 주천면 주천리 1124-2",
+      "latitude": "37.26837762",
+      "longitude": "128.2677533",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "248",
+      "Name": "다산 은행나무숲",
+      "description": "경북 고령군 다산면 좌학리 969",
+      "latitude": "35.8137008",
+      "longitude": "128.4328801",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "249",
+      "Name": "보성 겸백 솔밭",
+      "description": "전남 보성군 겸백면 도안리 산 31-1",
+      "latitude": "34.8259726",
+      "longitude": "127.1539148",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "250",
+      "Name": "밀양 금시당 유원지",
+      "description": "경남 밀양시 활성로 24-61 (활성동) ",
+      "latitude": "35.49119739",
+      "longitude": "128.7818547",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "251",
+      "Name": "도리지구공원 주변",
+      "description": "경기 여주시 점동면 도리 379",
+      "latitude": "37.22770175",
+      "longitude": "127.7107485",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "252",
+      "Name": "맹방해변 노지",
+      "description": "강원 삼척시 근덕면 하맹방리 221-5",
+      "latitude": "37.39278281",
+      "longitude": "129.2267095",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "253",
+      "Name": "부여 구경정나루",
+      "description": "충남 부여군 세도면 간대리 6-3",
+      "latitude": "36.15776447",
+      "longitude": "126.9556524",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "254",
+      "Name": "영월 선돌관광지 주변",
+      "description": "강원 영월군 남면 북쌍리 55-4",
+      "latitude": "37.20217351",
+      "longitude": "128.4315499",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "255",
+      "Name": "영월 서강변",
+      "description": "강원 영월군 남면 북쌍리 172-6",
+      "latitude": "37.20633304",
+      "longitude": "128.4159751",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "256",
+      "Name": "곡성 섬진강변",
+      "description": "전남 곡성군 오곡면 침곡리 103-8",
+      "latitude": "35.26436763",
+      "longitude": "127.3446634",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "257",
+      "Name": "큰골 저수지",
+      "description": "울산 북구 무룡동 978",
+      "latitude": "35.61057989",
+      "longitude": "129.4084483",
+      "toilet": "사용불가",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "258",
+      "Name": "문경 야구장",
+      "description": "경북 문경시 영순면 이목리 37",
+      "latitude": "36.55387783",
+      "longitude": "128.2909936",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "259",
+      "Name": "평림댐 공원",
+      "description": "전남 장성군 삼계면 수옥리 854-12",
+      "latitude": "35.28546181",
+      "longitude": "126.6855173",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    },
+    {
+      "gid": "260",
+      "Name": "마시안 해변",
+      "description": "인천 중구 덕교동 662-5",
+      "latitude": "37.43233847",
+      "longitude": "126.4176001",
+      "toilet": "사용가능",
+      "sink": "사용불가",
+      "tap_water": "사용불가"
+    },
+    {
+      "gid": "261",
+      "Name": "실미도 유원지",
+      "description": "인천 중구 무의동 768-5",
+      "latitude": "37.40359406",
+      "longitude": "126.4031815",
+      "toilet": "사용가능",
+      "sink": "사용가능",
+      "tap_water": "사용가능"
+    }
+  ]
+}
